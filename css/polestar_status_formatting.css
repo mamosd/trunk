@@ -1,0 +1,59 @@
+/* 
+    Created on : Mar 11, 2015, 12:07:40 PM
+    Author     : ramon
+*/
+
+/** STATUS CELL FORMATTING **/
+    .status-cell {
+        /*text-transform: uppercase;*/
+        font-weight: bold;
+        padding: 7px !important;
+        text-align: center;
+        white-space: nowrap;
+    }
+    .amended {
+        color: black !important;
+        background-color: yellow !important;
+        text-shadow: none !important;
+    }
+    .cancelled {
+        color: white !important;
+        background-color: red !important;
+        text-shadow: none !important;
+    }
+    .confirmed {
+        color: white !important;
+        background-color: green !important;
+        text-shadow: none !important;
+    }
+    .data-completed {
+        color: white !important;
+        background-color: green !important;
+        text-shadow: none !important;
+    }
+    .late-advice {
+        color: white !important;
+        background-color: blue !important;
+        text-shadow: none !important;
+    }
+    .newly-added {
+        color: white !important;
+        background-color: black !important;
+        text-shadow: none !important;
+    }
+    .same-day {
+        color: black !important;
+        background-color: orange !important;
+        text-shadow: none !important;
+    }
+    .booked {
+        color: white !important;
+        background-color: green !important;
+        text-shadow: none !important;
+    }
+    .allocated {
+        color: black !important;
+        background-color: orange !important;
+        text-shadow: none !important;
+    }
+

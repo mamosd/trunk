@@ -1,0 +1,1 @@
+See attached the advice sheet for the Job Ref <?php echo $model->Ref?> for date <?php echo $dt->format('d/m/Y') ?>.
